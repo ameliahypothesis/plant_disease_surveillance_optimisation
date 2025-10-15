@@ -1,5 +1,5 @@
 # plant_disease_surveillance_optimisation
-The code developed for the simulation of plant pathogen spread and the optimisation of the surveillance site location.
+The code is developed for the simulation of plant pathogen spread and the optimisation of the surveillance site location.
 
 simulation.py and optimisation.py contains the main functions for simulating pathogen spread and optimising surveillance sites.
 
